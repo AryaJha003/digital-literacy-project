@@ -1,5 +1,3 @@
-Cybercrime awareness and prevention tips
-
 # Task 5 – Cybercrime Awareness
 
 In this task, I learned about cybercrime and how it affects people in real life. Cybercrime includes activities like phishing, hacking, and online fraud, where attackers try to steal personal information.
