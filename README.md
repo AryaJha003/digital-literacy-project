@@ -29,4 +29,5 @@ The complete project report is available in the `report` folder as Project_Repor
 
 ## Learning Outcome
 
-This project helped me understand the importance of digital literacy, responsible use of technology, and professional online communication.
+Learning Outcome  
+This project helped me understand the importance of digital literacy, responsible use of technology, and professional online communication. This was my first time using some of these platforms, so it was a good learning experience for me.
