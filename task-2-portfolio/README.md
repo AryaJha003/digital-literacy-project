@@ -8,6 +8,6 @@ While creating these profiles, I understood how important it is to present infor
 
 ## My Profiles
 
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Kaggle: https://kaggle.com/your-username  
+- GitHub: https://github.com/AryaJha003 
+- LinkedIn:https://www.linkedin.com/in/arya-jha-2a005637b/ 
+- Kaggle: https://www.kaggle.com/aryajha003
