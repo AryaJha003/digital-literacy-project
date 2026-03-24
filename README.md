@@ -21,7 +21,7 @@ This repository contains all tasks completed as part of the Digital Literacy (CS
 - Kaggle: https://www.kaggle.com/aryajha003
 
 ## Google Form  
-Form Link:  
+Form Link:  https://docs.google.com/forms/d/e/1FAIpQLSexwtqYHuQGyMZs64sRbBmbavkTmv6tRfn8aAeQ6TeyIj8LCg/viewform?usp=publish-editor
 
 ## Project Report
 
