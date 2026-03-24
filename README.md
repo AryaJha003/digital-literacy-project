@@ -24,10 +24,7 @@ This repository contains all tasks completed as part of the Digital Literacy (CS
 Form Link:  https://docs.google.com/forms/d/e/1FAIpQLSexwtqYHuQGyMZs64sRbBmbavkTmv6tRfn8aAeQ6TeyIj8LCg/viewform?usp=publish-editor
 
 ## Project Report
-
 The complete project report is available in the `report` folder as Project_Report.pdf.
 
 ## Learning Outcome
-
-Learning Outcome  
 This project helped me understand the importance of digital literacy, responsible use of technology, and professional online communication. This was my first time using some of these platforms, so it was a good learning experience for me.
