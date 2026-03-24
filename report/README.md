@@ -1,1 +1,1 @@
-Project report files will be added here
+This folder contains the final project report for the Digital Literacy course.
