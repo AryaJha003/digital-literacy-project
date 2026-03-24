@@ -1,2 +1,24 @@
-# digital-literacy-project
-Digital Literacy Course Project – VIT Bhopal
+# Digital Literacy Project – VIT Bhopal
+
+Name: Arya Jha  
+Registration Number: 25MIM10002  
+
+## Project Overview
+
+This repository contains all tasks completed as part of the Digital Literacy (CSE0001) course. The project focuses on understanding digital tools, online platforms, communication, and cyber safety.
+
+## Tasks Included
+
+- Task 1: Digital Literacy Infographic  
+- Task 2: Student Digital Portfolio (GitHub, LinkedIn, Kaggle)  
+- Task 3: Platforms (Python coding, HackerRank, Google Form)  
+- Task 4: Email Etiquette and Social Media Checklist  
+- Task 5: Cybercrime Awareness and Prevention  
+
+## Project Report
+
+The complete project report is available in the `report` folder as Project_Report.pdf.
+
+## Learning Outcome
+
+This project helped me understand the importance of digital literacy, responsible use of technology, and professional online communication.
